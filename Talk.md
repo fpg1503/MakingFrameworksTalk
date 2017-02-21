@@ -31,11 +31,86 @@
 #[fit] *Usou um*
 #[fit] gerenciador
 #[fit] de 
-#[fit] **dependências**
+#[fit] **dependências?**
+
+---
+
+![fit](logo-cocoapods.png)
+
+---
+
+![fit](logo-carthage.png)
+
+---
+
+![fit](logo-swift.png)
+
+---
+
+#[fit] *Publicou*
+#[fit] um 
+#[fit] **framework?**
+
+---
+
+#[fit] >> 📚 << 
+
+---
+
+#[fit] >> 🐛 << 
+
+---
+
+#[fit] >> 💡 <<
+
+---
+
+#[fit] `dd/mm/yyyy`
+
+---
+
+#[fit] 21/08/2017
+
+---
+
+#[fit] 21/02/2017
+#[fit] 21h08
+
+---
+
+#[fit] 21/_02_/2017
+#[fit] _21h_08
+
+---
+
+#[fit] `mm`
+#[fit] minutos
+
+---
+
+#[fit] `MM`
+#[fit] mês
+
+---
+
+#[fit] `yyyy-MM-dd'T'HH:mm:ssZ`
+
+---
+
+![fit](issues-with-dates.png)
+
+
+---
+
+![fit](iso-formatter.png)
 
 ---
 
 //TODO: Code
+
+---
+
+![fit](caterpillar.png)
 
 ---
 
