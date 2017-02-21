@@ -106,7 +106,18 @@
 
 ---
 
+- typesafe
 //TODO: Code
+- cocoapods
+- carthage
+- spm
+- quality index
+- travis
+- test
+- docs
+- readme
+- testing
+- q&a
 
 ---
 
