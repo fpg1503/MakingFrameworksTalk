@@ -125,6 +125,15 @@
 
 ---
 
+#[fit] Não gosto de strings
+
+---
+
+#[fit] `String`ly
+#[fit] typed APIs
+
+---
+
 #[fit] >> 💡✅ <<
 
 ---
