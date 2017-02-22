@@ -246,7 +246,7 @@ public func year(_ style: YearStyle) -> DateFormat {
 ---
 
 ```swift
-let format = DateForrmat()
+let format = DateFormat()
     .year(.fourDigits)
     .separator(.dash)
     .month(.zeroPaddedNumber)
